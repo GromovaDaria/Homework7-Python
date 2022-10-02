@@ -1,0 +1,7 @@
+
+экспорт - Ивановимпорт - & C:/Users/dasha/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/dasha/Desktop/PB/main.py
+экспорт - Иванов
+экспорт - Иванов
+экспорт - Петров
+экспорт - Булочкин
+экспорт - Кэндичкин
